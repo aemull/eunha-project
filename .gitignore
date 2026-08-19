@@ -1,3 +1,8 @@
-.venv-windows
+.venv-windows/
 cons/datas/*
 cons/transit/*
+cons/output/*
+
+!cons/datas/.gitkeep
+!cons/transit/.gitkeep
+!cons/output/.gitkeep
